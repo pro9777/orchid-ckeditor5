@@ -1,0 +1,23 @@
+{
+  "name": "pro9777/orchid-ckeditor5",
+  "description": "orchid-ckeditor5",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "pro9777",
+      "email": "programmer9777@gmail.com",
+      "homepage": "https://github.com/pro9777"
+    }
+  ],
+  "require": {
+    "php": "^8.0"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Pro9777\\OrchidCkeditor5\\Providers\\"
+      ]
+    }
+  }
+}
